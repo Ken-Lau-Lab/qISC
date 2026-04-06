@@ -1,1 +1,1 @@
-# mito-variant-calling-pipeline
+# mutation-detection-pipeline
