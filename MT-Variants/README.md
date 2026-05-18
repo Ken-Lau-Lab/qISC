@@ -1,5 +1,5 @@
 # mutation-detection-pipeline
 
-<img src="../img/fig2.png" width="700">
-
-<br clear="left"/>
+<p align="center">
+  <img src="../img/fig2.png">
+</p>
