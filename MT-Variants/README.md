@@ -1,4 +1,4 @@
 # mutation-detection-pipeline
 
-![fig2](../img/fig2.png)
+<img src="../img/fig2.png" width="700">
 
